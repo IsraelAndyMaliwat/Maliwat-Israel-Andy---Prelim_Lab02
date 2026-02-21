@@ -1,0 +1,14 @@
+C:\Users\Israel Andy Maliwat\PrelimAct2\bin\Debug\net10.0\PrelimAct2.exe
+C:\Users\Israel Andy Maliwat\PrelimAct2\bin\Debug\net10.0\PrelimAct2.deps.json
+C:\Users\Israel Andy Maliwat\PrelimAct2\bin\Debug\net10.0\PrelimAct2.runtimeconfig.json
+C:\Users\Israel Andy Maliwat\PrelimAct2\bin\Debug\net10.0\PrelimAct2.dll
+C:\Users\Israel Andy Maliwat\PrelimAct2\bin\Debug\net10.0\PrelimAct2.pdb
+C:\Users\Israel Andy Maliwat\PrelimAct2\obj\Debug\net10.0\PrelimAct2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Israel Andy Maliwat\PrelimAct2\obj\Debug\net10.0\PrelimAct2.AssemblyInfoInputs.cache
+C:\Users\Israel Andy Maliwat\PrelimAct2\obj\Debug\net10.0\PrelimAct2.AssemblyInfo.cs
+C:\Users\Israel Andy Maliwat\PrelimAct2\obj\Debug\net10.0\PrelimAct2.csproj.CoreCompileInputs.cache
+C:\Users\Israel Andy Maliwat\PrelimAct2\obj\Debug\net10.0\PrelimAct2.dll
+C:\Users\Israel Andy Maliwat\PrelimAct2\obj\Debug\net10.0\refint\PrelimAct2.dll
+C:\Users\Israel Andy Maliwat\PrelimAct2\obj\Debug\net10.0\PrelimAct2.pdb
+C:\Users\Israel Andy Maliwat\PrelimAct2\obj\Debug\net10.0\PrelimAct2.genruntimeconfig.cache
+C:\Users\Israel Andy Maliwat\PrelimAct2\obj\Debug\net10.0\ref\PrelimAct2.dll
